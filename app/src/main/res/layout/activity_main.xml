@@ -116,6 +116,7 @@
 
     <Button
         android:id="@+id/igual"
+        style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="wrap_content"
         android:layout_height="60dp"
         android:layout_marginBottom="72dp"
@@ -125,6 +126,7 @@
 
     <Button
         android:id="@+id/borrar"
+        style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="wrap_content"
         android:layout_height="60dp"
         android:layout_marginBottom="320dp"
